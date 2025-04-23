@@ -1,5 +1,4 @@
 # Java_mini_projects
-Java Mini Projects
 
 This repository contains five beginner-to-intermediate level Java programs created using Object-Oriented Programming (OOP) principles. These projects were developed purely for learning purposes to explore core Java concepts such as classes, objects, inheritance, and encapsulation.
 
